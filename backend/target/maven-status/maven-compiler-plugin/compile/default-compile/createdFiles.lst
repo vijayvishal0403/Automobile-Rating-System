@@ -1,0 +1,7 @@
+com\example\automobile_rating\model\Rating.class
+com\example\automobile_rating\AutomobileRatingApplication.class
+com\example\automobile_rating\controller\RatingController.class
+com\example\automobile_rating\repository\RatingRepository.class
+com\example\automobile_rating\controller\VehicleController.class
+com\example\automobile_rating\model\Vehicle.class
+com\example\automobile_rating\repository\VehicleRepository.class
