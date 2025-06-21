@@ -1,4 +1,3 @@
-# Automobile-Rating-System
 # Setup
 
 ```java
